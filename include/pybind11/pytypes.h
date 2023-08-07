@@ -1484,7 +1484,6 @@ private:
         }
     }
 
-private:
     object value = {};
 };
 
